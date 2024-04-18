@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "1055342636154",
+    "firebase_url": "https://ciaktime-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ciaktime",
+    "storage_bucket": "ciaktime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055342636154:android:8a0cc5686604fbb4b71fc3",
+        "android_client_info": {
+          "package_name": "com.example.ciak_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055342636154-20sabnf3q154e8v0uvmi20q4bp0ipr5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciak_time",
+            "certificate_hash": "eeb67773bbe0c8bec6804f5409926793b21e6d93"
+          }
+        },
+        {
+          "client_id": "1055342636154-97nqnj0li126qruba240qsg1natu0clb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciak_time",
+            "certificate_hash": "a2bf81d706daecb05e18fc88b1aae1d1a8cedf49"
+          }
+        },
+        {
+          "client_id": "1055342636154-cbtvo0s6geq6n03dig2vankt01d07j1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciak_time",
+            "certificate_hash": "2dd1276c33f895123938281931ed95fbb07942ba"
+          }
+        },
+        {
+          "client_id": "1055342636154-fc89usrloetk3n854187bufnk41mgpis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciak_time",
+            "certificate_hash": "d2685c7ea0ee4f3ca8b88eda4dc37b5c4a354157"
+          }
+        },
+        {
+          "client_id": "1055342636154-gmaev8ji0q8as1k0s3r7vr93vmqiv9pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciak_time",
+            "certificate_hash": "8f9b881c81bd677315fb80ae1dd373dc704e2bc1"
+          }
+        },
+        {
+          "client_id": "1055342636154-fgmpp41op5o02vj5o7lhd8o44efhbteb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RUGsIDxit7RVzOSjXDbdL5tl6B70YRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055342636154-fgmpp41op5o02vj5o7lhd8o44efhbteb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055342636154-vbk5pfco1b5t4aqg9711iob1vkkqfb6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ciakTime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
