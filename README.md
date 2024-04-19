@@ -3,10 +3,9 @@ A joint project for the Human Computer Interaction and Mobile Applications and C
 
 
 
-<div style="display: flex;">
-  <img src="https://github.com/ValeSisti/CiakTime/assets/66778797/2d3549e6-2774-4170-835f-5821792ccdf7" alt="Image 1" style="flex: 50%; padding: 5px;">
-  <img src="https://github.com/ValeSisti/CiakTime/assets/66778797/1b80991d-f938-4bc6-a710-764d1fd8de6b" alt="Image 2" style="flex: 50%; padding: 5px;">
-</div>
+| Image 1 | Image 2 |
+|---------|---------|
+| ![1713509646786](https://github.com/ValeSisti/CiakTime/assets/66778797/2d3549e6-2774-4170-835f-5821792ccdf7) | ![1713509646836](https://github.com/ValeSisti/CiakTime/assets/66778797/1b80991d-f938-4bc6-a710-764d1fd8de6b) |
 
 ![1713509646786](https://github.com/ValeSisti/CiakTime/assets/66778797/2d3549e6-2774-4170-835f-5821792ccdf7)
 
