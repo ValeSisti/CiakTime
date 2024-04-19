@@ -4,6 +4,7 @@ A joint project for the Human Computer Interaction and Mobile Applications and C
 
 
 
+| |  |
 |---------|---------|
 | ![1713509646786](https://github.com/ValeSisti/CiakTime/assets/66778797/2d3549e6-2774-4170-835f-5821792ccdf7) | ![1713509646836](https://github.com/ValeSisti/CiakTime/assets/66778797/1b80991d-f938-4bc6-a710-764d1fd8de6b) |
 
