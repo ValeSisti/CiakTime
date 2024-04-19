@@ -1,6 +1,8 @@
 # CiakTime
 A joint project for the Human Computer Interaction and Mobile Applications and Cloud Computing courses from the master's degree in Engineering in Computer Science at Sapienza
 
+_Authors: Mauro Ficorella, Valentina Sisti, Martina Turbessi_
+
 
 
 
@@ -10,3 +12,8 @@ A joint project for the Human Computer Interaction and Mobile Applications and C
 
 
 ![1713509646819](https://github.com/ValeSisti/CiakTime/assets/66778797/f6df3d5f-bd05-4741-9146-1c8d6b7787b3)
+
+
+# Documentation
+The project has been developed using the User Centered Design (UCD) approach.
+For more information, please refer to the [presentation](https://github.com/ValeSisti/CiakTime/blob/main/Documentation/Presentazione%20HCI.pdf) and [report](https://github.com/ValeSisti/CiakTime/blob/main/Documentation/Final_Report_HCI.pdf)
